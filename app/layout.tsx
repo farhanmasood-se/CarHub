@@ -1,9 +1,9 @@
-import "./globals.css";
+import './globals.css';
 
-import { Footer, Navbar } from "@/components";
+import { Footer, Navbar } from '@/components';
 
 export const metadata = {
-  title: "Car Hub",
+  title: 'Car Forge',
   description: "Discover world's best car showcase application",
 };
 
